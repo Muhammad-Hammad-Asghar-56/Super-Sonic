@@ -1,0 +1,20 @@
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\bin\Debug\super_sonic.exe.config
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\bin\Debug\super_sonic.exe
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\bin\Debug\super_sonic.pdb
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\bin\Debug\EZInput.dll
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\bin\Debug\EZInput.xml
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.AssemblyReference.cache
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.CoreCompileInputs.cache
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.CopyComplete
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\obj\Debug\super_sonic.exe
+D:\2nd Semester (C#)\game\super_sonic\super_sonic\obj\Debug\super_sonic.pdb
+D:\2nd Semester\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.AssemblyReference.cache
+D:\2nd Semester\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.CoreCompileInputs.cache
+D:\2nd Semester\game\super_sonic\super_sonic\obj\Debug\super_sonic.exe
+D:\2nd Semester\game\super_sonic\super_sonic\obj\Debug\super_sonic.pdb
+D:\2nd Semester\game\super_sonic\super_sonic\bin\Debug\super_sonic.exe.config
+D:\2nd Semester\game\super_sonic\super_sonic\bin\Debug\super_sonic.exe
+D:\2nd Semester\game\super_sonic\super_sonic\bin\Debug\super_sonic.pdb
+D:\2nd Semester\game\super_sonic\super_sonic\bin\Debug\EZInput.dll
+D:\2nd Semester\game\super_sonic\super_sonic\bin\Debug\EZInput.xml
+D:\2nd Semester\game\super_sonic\super_sonic\obj\Debug\super_sonic.csproj.CopyComplete
